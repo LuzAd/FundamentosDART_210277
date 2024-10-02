@@ -18,6 +18,7 @@ Proyecto de clase para la Unidad 1 de la asignatura de Desarrollo Móvil Integra
 |8|Funciones y parámetros|11|Finalizada|
 |9|Clases|9|Finalizada|
 |10|Constructores nombrados|8|Activa|
+|11|Getters (Lectura controlada) y Setters (Modificación controlada)|9|Activa|
 
 ## LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
