@@ -20,6 +20,7 @@ Proyecto de clase para la Unidad 1 de la asignatura de Desarrollo Móvil Integra
 |10|Constructores nombrados|8|Activa|
 |11|Getters (Lectura controlada) y Setters (Modificación controlada)|9|Activa|
 |12|Aserciones|3|Activa|
+|13|Clases Abstractas|11|Activa|
 
 
 ## LISTA DE HERRAMIENTAS
