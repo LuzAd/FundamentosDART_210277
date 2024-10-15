@@ -17,12 +17,16 @@ Proyecto de clase para la Unidad 1 de la asignatura de Desarrollo Móvil Integra
 |7|Listas, Iterables y Conjuntos de Datos|9|Finalizada|
 |8|Funciones y parámetros|11|Finalizada|
 |9|Clases|9|Finalizada|
-|10|Constructores nombrados|8|Activa|
-|11|Getters (Lectura controlada) y Setters (Modificación controlada)|9|Activa|
-|12|Aserciones|3|Activa|
-|13|Clases Abstractas|11|Activa|
-|14|Mixin|11|Activa|
-|15|Future|7|Activa|
+|10|Constructores nombrados|8|Finalizada|
+|11|Getters (Lectura controlada) y Setters (Modificación controlada)|9|Finalizada|
+|12|Aserciones|3|Finalizada|
+|13|Clases Abstractas|11|Finalizada|
+|14|Mixin|11|Finalizada|
+|15|Future|7|Finalizada|
+|16 |Async Await |Pendiente |Activa|
+|17 |Try Catch On Finally |Pendiente |Activa|
+|18 |Streams |Pendiente |Activa|
+|19 |Streams Awaits |Pendiente |Activa|
 
 
 ## LISTA DE HERRAMIENTAS
